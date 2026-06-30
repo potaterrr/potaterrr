@@ -15,14 +15,6 @@ I am actively building out my portfolio, learning advanced integration patterns,
 
 ---
 
-### 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=flat-ui&count_private=true" alt="Your GitHub Stats" />
-</p>
-
----
-
 ### 📬 Let's Connect!
 
 I am eager to contribute to real-world projects, assist with data entry/migration automations, and collaborate with experienced builders.
