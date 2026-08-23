@@ -25,7 +25,7 @@ I am always open to discussing new technologies, automation strategies, or poten
 
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
 *   **💼 LinkedIn:** [linkedin.com/in/potaterrr](https://www.linkedin.com/in/potaterrr/)
-*   **✈️ Telegram:** [@portaterrrr](https://t.me/@portaterrrr) *(or click the badge below)*
+*   **✈️ Telegram:** [@4tater](https://t.me/@4tater) *(or click the badge below)*
 
 <p align="left">
   <a href="https://t.me/@portaterrrr">
