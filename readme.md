@@ -69,10 +69,12 @@ The **fastest way to reach me is Telegram** — I always respond there first.
   <a href="mailto:kristiandyanbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-potaterrr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: papayyy#3184" />
+  <a href="https://discord.com/users/684383261744431104">
+    <img src="https://img.shields.io/badge/Discord-potaterrr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: potaterrr" />
+  </a>
 </p>
 
 Open to discussing new technologies, automation strategies, or freelance opportunities. If your leads are gathering dust, I know a workflow for that. 🥔
 
 ---
-<p align="center"><i>"Automating the boring stuff, one node at a time."</i></p>
+<p align="center"><i>"Mashing the boring stuff so you don't have to."</i></p>
