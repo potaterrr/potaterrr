@@ -59,12 +59,16 @@ When things break, I reach for Postman, developer consoles, and logs to find the
 The **fastest way to reach me is Telegram** — I always respond there first.
 
 *   **✈️ Telegram:** [@portaterrrr](https://t.me/portaterrrr) *(preferred)*
+*   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
 *   **💬 Discord:** **potaterrr** *(find me in our shared servers)*
 
 <p align="left">
   <a href="https://t.me/portaterrrr">
     <img src="https://img.shields.io/badge/Telegram-Message_Me-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61593886946042">
+    <img src="https://img.shields.io/badge/Facebook-Potaterrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:kristiandyanbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
