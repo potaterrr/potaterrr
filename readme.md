@@ -11,15 +11,28 @@
   <img src="https://img.shields.io/badge/Webhooks-F62D00?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
 </p>
 
-## 🥔 Featured Project
+## 🥔 Featured Projects
 
-### [Dead Lead Follow-up](https://github.com/potaterrr/dead-lead-followup)
-An AI-powered, human-in-the-loop automation that resurrects dormant leads: an LLM writes personalized check-in emails, files them as **Gmail drafts** (never auto-sent!), drops a booking button into every one, and tracks each lead through the review lifecycle on ClickUp.
-
-- **Human-in-the-loop by design** — AI drafts, human approves, nothing sends itself
-- Personalization from custom fields: lead name, company, original interest notes
-- Anti-hallucination guardrails: the only link in any email is mine
-- Full setup guide, config reference and production-tested lessons learned in the README
+<table>
+  <tr>
+    <th width="50%">💤 <a href="https://github.com/potaterrr/dead-lead-followup">Dead Lead Follow-up</a></th>
+    <th width="50%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      An AI-powered, human-in-the-loop automation that resurrects dormant leads: an LLM writes personalized check-in emails, files them as <b>Gmail drafts</b> (never auto-sent!), drops a booking button into every one, and tracks each lead through the review lifecycle on ClickUp.<br><br>
+      • <b>Human-in-the-loop by design</b> — AI drafts, human approves, nothing sends itself<br>
+      • Anti-hallucination guardrails: the only link in any email is mine<br>
+      • Full setup guide, config reference and production-tested lessons in the README
+    </td>
+    <td valign="top">
+      An AI receptionist that answers missed calls and books appointments — built <b>three times</b> (Make / n8n / Zapier) on a shared Vapi + Twilio voice layer, so platforms can be compared apples-to-apples before choosing one.<br><br>
+      • Answers instantly, capturing name, number, intent and preferred slot as structured data<br>
+      • Conflict-checks Google Calendar, books real slots, alerts the owner with a summary<br>
+      • Simulated end-to-end today — live phone calls are a plug-in away
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Other Projects
 
