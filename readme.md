@@ -37,6 +37,13 @@ An automated trading-signal pipeline that evaluates an **SMA crossover strategy*
 - Fully configurable through environment variables (symbol, SMA windows, webhook URL)
 - Runs automatically on GitHub Actions every weekday at 21:00 UTC
 
+### [make-commits](https://github.com/potaterrr/make-commits)
+A Make.com automation that posts every GitHub push to a Facebook Page as a digest — instantly, via webhooks. Built and running entirely on the Make.com free tier.
+
+- Instant pipeline: `git push` → Facebook post lands seconds later (webhooks, no polling)
+- One post per push listing every commit message as a bullet (~2 ops per push)
+- Ships with a sanitized scenario blueprint + step-by-step setup guide
+
 ## 🧠 How I Work
 
 I believe understanding *how* systems communicate beats memorizing platform features. Every workflow I design is:
