@@ -44,9 +44,6 @@ A Python scraper that searches [OnlineJobs.ph](https://www.onlinejobs.ph) for re
 - Fallback notifications so downstream automations never stall
 
 ### [signal-checker](https://github.com/potaterrr/signal-checker)
-### [money-generator]
-Documentation for Folklore AI video generation scenarios (pending).
-
 An automated trading-signal pipeline that evaluates an **SMA crossover strategy** on daily stock prices and dispatches `BUY` / `SELL` / `HOLD` signals as JSON to a Make.com webhook.
 
 - ~400 days of historical closes via **yfinance** (50/200-day defaults)
@@ -59,6 +56,9 @@ A Make.com automation that posts every GitHub push to a Facebook Page as a diges
 - Instant pipeline: `git push` → Facebook post lands seconds later (webhooks, no polling)
 - One post per push listing every commit message as a bullet (~2 ops per push)
 - Ships with a sanitized scenario blueprint + step-by-step setup guide
+
+### [money-generator]
+Documentation for Folklore AI video generation scenarios (pending).
 
 ## 🧠 How I Work
 
