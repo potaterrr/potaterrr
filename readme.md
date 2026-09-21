@@ -84,7 +84,6 @@ The **fastest way to reach me is Telegram** — I always respond there first.
 *   **✈️ Telegram:** [@portaterrrr](https://t.me/portaterrrr) *(preferred)*
 *   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
-*   **💬 Discord:** **potaterrr** *(find me in our shared servers)*
 
 <p align="left">
   <a href="https://t.me/portaterrrr">
@@ -95,9 +94,6 @@ The **fastest way to reach me is Telegram** — I always respond there first.
   </a>
   <a href="mailto:kristiandyanbusiness@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/684383261744431104">
-    <img src="https://img.shields.io/badge/Discord-potaterrr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: potaterrr" />
   </a>
 </p>
 
