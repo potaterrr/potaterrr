@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://potaterrr.github.io/assets/favicon-512.png" width="120" alt="potaterrr — Potato AI" />
-</p>
-
 # Hi, I'm **Christian John** — but everybody calls me **potaterrr** 🥔
 
 **Python automation developer** growing pipelines that connect data to Make.com and n8n — from job scrapers to trading-signal engines to AI agents that write follow-up emails for me. If it's repetitive, I'll automate it. If it involves potatoes, even better. 🥔
