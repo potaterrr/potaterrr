@@ -92,11 +92,15 @@ System/Hardware:
 🐧  Debian GNU/Linux 13 (trixie) x86_64  
 ⚙️  Linux 6.12.101+deb13-amd64
 
+<div align="center">
+
 Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
 ```sh
 curl -fsSL https://potaterrr.github.io/install | sh
 ```
+
+</div>
 
 ## 📊 GitHub Stats
 
