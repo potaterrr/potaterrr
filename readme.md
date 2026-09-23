@@ -86,11 +86,11 @@ When things break, I reach for Postman, developer consoles, and logs to find the
 ## 🥔 Dotfiles
 
 System/Hardware:  
-󰌢  20RA004VPH (ThinkPad E14)  
-  Intel(R) Core(TM) i7-10510U (8) @ 4.90 GHz  
-󰾲  AMD Radeon 550X Series [Discrete]  
-  Debian GNU/Linux 13 (trixie) x86_64  
-  Linux 6.12.101+deb13-amd64
+💻  20RA004VPH (ThinkPad E14)  
+🧠  Intel(R) Core(TM) i7-10510U (8) @ 4.90 GHz  
+🎮  AMD Radeon 550X Series [Discrete]  
+🐧  Debian GNU/Linux 13 (trixie) x86_64  
+⚙️  Linux 6.12.101+deb13-amd64
 
 Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
