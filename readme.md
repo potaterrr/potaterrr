@@ -94,9 +94,7 @@ System/Hardware:
 
 Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
-```bash
-curl -fsSL https://potaterrr.github.io/install | sh
-```
+[![Animated terminal: curl -fsSL https://potaterrr.github.io/install | sh](assets/install-terminal.svg)](https://potaterrr.github.io/install)
 
 </div>
 
