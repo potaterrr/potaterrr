@@ -85,15 +85,15 @@ When things break, I reach for Postman, developer consoles, and logs to find the
 
 ## 🥔 Dotfiles
 
-**[dotfiles](https://github.com/potaterrr/dotfiles)** — The potato I'm running.
+**[dotfiles](https://github.com/potaterrr/dotfiles)** — `curl -fsSL https://potaterrr.github.io/install | sh`
 
 - **Laptop:** Lenovo ThinkPad E14 Gen 1 · Intel Core i7 (10th Gen) · 16 GB RAM
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=potaterrr&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potaterrr&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=potaterrr&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=potaterrr&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 ## 📬 Contact
