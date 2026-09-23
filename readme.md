@@ -92,13 +92,9 @@ System/Hardware:
 🐧  Debian GNU/Linux 13 (trixie) x86_64  
 ⚙️  Linux 6.12.101+deb13-amd64
 
-<div align="center">
-
-[![⚡ 1 Click Install](https://img.shields.io/badge/%E2%9A%A1_1_Click_Install-2EA44F?style=for-the-badge&logo=gnubash&logoColor=white)](https://potaterrr.github.io/install)
-
 Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
-```sh
+```bash
 curl -fsSL https://potaterrr.github.io/install | sh
 ```
 
