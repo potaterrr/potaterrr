@@ -1,6 +1,8 @@
 # Hi, I'm **Christian John** — but everybody calls me **potaterrr** 🥔
 
-**Python automation developer** growing pipelines that connect data to Make.com and n8n — from job scrapers to trading-signal engines to AI agents that write follow-up emails for me. If it's repetitive, I'll automate it. If it involves potatoes, even better.
+**Python automation developer** growing pipelines that connect data to Make.com and n8n — from job scrapers to trading-signal engines to AI agents that write follow-up emails for me. If it's repetitive, I'll automate it. If it involves potatoes, even better. 🥔
+
+🌐 Portfolio site: [potaterrr.github.io](https://potaterrr.github.io)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -50,15 +52,26 @@ An automated trading-signal pipeline that evaluates an **SMA crossover strategy*
 - Fully configurable through environment variables (symbol, SMA windows, webhook URL)
 - Runs automatically on GitHub Actions every weekday at 21:00 UTC
 
+### [ai-folklore](https://github.com/potaterrr/ai-folklore) (theory)
+The research stage of a folklore-story video pipeline: **research → AI script → (Veo video) → publish**. A zero-dependency Python scraper pulls folklore stories (Philippine mythology front-loaded) from Wikipedia and feeds them to Make.com or n8n — Gemini writes the script, a Gmail draft waits for review.
+
+- **Zero pip dependencies** — stdlib `urllib` + `json`, Python 3.9+ is all it needs
+- Built-in dedupe remembers delivered titles, so each run pushes only new stories
+- Ships with importable Make.com and n8n blueprints plus a full testing report
+
+### [rss-news](https://github.com/potaterrr/rss-news) (personal automation)
+An automated news curation pipeline for the **AI Tech & Automation Hub** Facebook page: a Python script fetches tech & AI RSS feeds (Hacker News, Phoronix, The Verge…), filters by keyword, and POSTs a digest to a Make.com webhook that drafts the post with Gemini, generates a graphic with Imagen, and publishes to Facebook Pages.
+
+- **GitHub Actions** cron runs it every Sunday at 6:00 AM PHT
+- Keyword filtering + `seen_articles.json` dedupe so nothing posts twice
+- A random banner image from the repo rides along with every digest
+
 ### [make-commits](https://github.com/potaterrr/make-commits)
 A Make.com automation that posts every GitHub push to a Facebook Page as a digest — instantly, via webhooks. Built and running entirely on the Make.com free tier.
 
 - Instant pipeline: `git push` → Facebook post lands seconds later (webhooks, no polling)
 - One post per push listing every commit message as a bullet (~2 ops per push)
 - Ships with a sanitized scenario blueprint + step-by-step setup guide
-
-### [money-generator]
-Documentation for Folklore AI video generation scenarios (pending).
 
 ## 🧠 How I Work
 
@@ -70,11 +83,17 @@ I believe understanding *how* systems communicate beats memorizing platform feat
 
 When things break, I reach for Postman, developer consoles, and logs to find the bottleneck fast. (The logs are always lying. Check them anyway.)
 
+## 🥔 Dotfiles
+
+**[dotfiles](https://github.com/potaterrr/dotfiles)** — The potato I'm running.
+
+- **Laptop:** Lenovo ThinkPad E14 Gen 1 · Intel Core i7 (10th Gen) · 16 GB RAM
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=potaterrr&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potaterrr&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=potaterrr&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potaterrr&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
 </p>
 
 ## 📬 Contact
@@ -82,12 +101,16 @@ When things break, I reach for Postman, developer consoles, and logs to find the
 The **fastest way to reach me is Telegram** — I always respond there first.
 
 *   **✈️ Telegram:** [@portaterrrr](https://t.me/portaterrrr) *(preferred)*
+*   **💬 WhatsApp:** [@potaiterrr](https://wa.me/potaiterrr)
 *   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
 
 <p align="left">
   <a href="https://t.me/portaterrrr">
     <img src="https://img.shields.io/badge/Telegram-Message_Me-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/potaiterrr">
+    <img src="https://img.shields.io/badge/WhatsApp-potaiterrr-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61593886946042">
     <img src="https://img.shields.io/badge/Facebook-Potaterrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
