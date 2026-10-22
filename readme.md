@@ -1,6 +1,6 @@
 # Hi, I'm **Christian John** — but everybody calls me **potaterrr** 🥔
 
-**Python automation developer** growing pipelines that connect data to Make.com and n8n — from job scrapers to trading-signal engines to AI agents that write follow-up emails for me. If it's repetitive, I'll automate it. If it involves potatoes, even better. 🥔
+**Python automation developer** transitioning from 6+ years of fast-paced BPO operations and moderation into building smart systems. I build pipelines connecting data to Make.com and n8n — turning tedious, high-volume tasks into seamless workflows. 🥔
 
 🌐 Portfolio site: [potaterrr.github.io](https://potaterrr.github.io)
 
