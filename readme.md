@@ -2,6 +2,14 @@
 
 **Python automation developer** transitioning from 6+ years of fast-paced BPO operations and moderation into building smart systems. I build pipelines connecting data to Make.com and n8n — turning tedious, high-volume tasks into seamless workflows. 🥔
 
+📞 **Featured: [AI Voice Receptionist](https://github.com/potaterrr/voice-receptionist)** — answers missed calls, books appointments, and a **🔒 HIPAA-compliant build is available**.
+
+<p align="left">
+  <a href="https://github.com/potaterrr/voice-receptionist">
+    <img src="https://img.shields.io/badge/%F0%9F%94%92_HIPAA--compliant_build_available-2ea886?style=for-the-badge" alt="HIPAA-compliant build available" />
+  </a>
+</p>
+
 🌐 Portfolio site: [potaterrr.github.io](https://potaterrr.github.io)
 
 🔎 Searching *potater* lands here too — same potato, fewer letters.
@@ -19,21 +27,22 @@
 
 <table>
   <tr>
+    <th width="50%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a><br><sub>🔒 HIPAA-compliant build available</sub></th>
     <th width="50%">💤 <a href="https://github.com/potaterrr/dead-lead-followup">Dead Lead Follow-up</a></th>
-    <th width="50%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a></th>
   </tr>
   <tr>
+    <td valign="top">
+      An AI receptionist that answers missed calls and books appointments — built <b>three times</b> (Make / n8n / Zapier) on a shared Vapi + Twilio voice layer, so platforms can be compared apples-to-apples before choosing one.<br><br>
+      • <b>🔒 HIPAA-compliant build available</b> — BAAs, access controls and audit logging on request<br>
+      • Answers instantly, capturing name, number, intent and preferred slot as structured data<br>
+      • Conflict-checks Google Calendar, books real slots, alerts the owner with a summary<br>
+      • Simulated end-to-end today — live phone calls are a plug-in away
+    </td>
     <td valign="top">
       An AI-powered, human-in-the-loop automation that resurrects dormant leads: an LLM writes personalized check-in emails, files them as <b>Gmail drafts</b> (never auto-sent!), drops a booking button into every one, and tracks each lead through the review lifecycle on ClickUp.<br><br>
       • <b>Human-in-the-loop by design</b> — AI drafts, human approves, nothing sends itself<br>
       • Anti-hallucination guardrails: the only link in any email is mine<br>
       • Full setup guide, config reference and production-tested lessons in the README
-    </td>
-    <td valign="top">
-      An AI receptionist that answers missed calls and books appointments — built <b>three times</b> (Make / n8n / Zapier) on a shared Vapi + Twilio voice layer, so platforms can be compared apples-to-apples before choosing one.<br><br>
-      • Answers instantly, capturing name, number, intent and preferred slot as structured data<br>
-      • Conflict-checks Google Calendar, books real slots, alerts the owner with a summary<br>
-      • Simulated end-to-end today — live phone calls are a plug-in away
     </td>
   </tr>
 </table>
@@ -131,7 +140,7 @@ You can reach me anywhere below.
   </a>
 </p>
 
-Open to discussing new technologies, automation strategies, or freelance opportunities. If your leads are gathering dust, I know a workflow for that. 🥔
+Open to discussing new technologies, automation strategies, or freelance opportunities — including HIPAA-compliant voice receptionist builds for healthcare practices. If your leads are gathering dust, I know a workflow for that too. 🥔
 
 ---
 <p align="center"><i>"Mashing the boring stuff so you don't have to."</i></p>
