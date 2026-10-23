@@ -120,17 +120,17 @@ Install ([dotfiles](https://github.com/potaterrr/dotfiles)):
 
 You can reach me anywhere below.
 
-*   **✈️ Telegram:** [@portaterrrr](https://t.me/portaterrrr) *(preferred)*
-*   **💬 WhatsApp:** [@potaiterrr](https://wa.me/potaiterrr)
+*   **💬 WhatsApp:** [@potaiterrr](https://wa.me/potaiterrr) *(preferred)*
+*   **✈️ Telegram:** [@portaterrrr](https://t.me/portaterrrr)
 *   **📘 Facebook:** [Potaterrr](https://www.facebook.com/profile.php?id=61593886946042)
 *   **📧 Email:** [kristiandyanbusiness@gmail.com](mailto:kristiandyanbusiness@gmail.com)
 
 <p align="left">
-  <a href="https://t.me/portaterrrr">
-    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
   <a href="https://wa.me/potaiterrr">
     <img src="https://img.shields.io/badge/WhatsApp-potaiterrr-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/portaterrrr">
+    <img src="https://img.shields.io/badge/Telegram-Message_Me-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61593886946042">
     <img src="https://img.shields.io/badge/Facebook-Potaterrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
