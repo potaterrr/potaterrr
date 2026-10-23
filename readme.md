@@ -28,7 +28,7 @@
 <table>
   <tr>
     <th width="50%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a><br><sub>🔒 HIPAA-compliant build available</sub></th>
-    <th width="50%">💤 <a href="https://github.com/potaterrr/dead-lead-followup">Dead Lead Follow-up</a></th>
+    <th width="50%">💤 <a href="https://github.com/potaterrr/dead-lead-retrieval">Dead Lead Retrieval</a></th>
   </tr>
   <tr>
     <td valign="top">
