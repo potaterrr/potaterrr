@@ -32,11 +32,11 @@
   </tr>
   <tr>
     <td valign="top">
-      An AI receptionist that answers missed calls and books appointments — built <b>three times</b> (Make / n8n / Zapier) on a shared Vapi + Twilio voice layer, so platforms can be compared apples-to-apples before choosing one.<br><br>
+      An AI receptionist that answers missed calls and books appointments — built <b>three times</b> (Make / n8n / Zapier) on a shared Retell voice layer, so platforms can be compared apples-to-apples before choosing one.<br><br>
       • <b>🔒 HIPAA-compliant build available</b> — BAAs, access controls and audit logging on request<br>
       • Answers instantly, capturing name, number, intent and preferred slot as structured data<br>
       • Conflict-checks Google Calendar, books real slots, alerts the owner with a summary<br>
-      • Simulated end-to-end today — live phone calls are a plug-in away
+      • n8n branch live on synthetic payloads — real phone calls are one Retell agent away
     </td>
     <td valign="top">
       An AI-powered, human-in-the-loop automation that resurrects dormant leads: an LLM writes personalized check-in emails, files them as <b>Gmail drafts</b> (never auto-sent!), drops a booking button into every one, and tracks each lead through the review lifecycle on ClickUp.<br><br>
