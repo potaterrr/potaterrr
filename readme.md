@@ -10,6 +10,8 @@
   </a>
 </p>
 
+🧾 **New: [AR Invoice Reminder Agent](https://github.com/potaterrr/ar-invoice-reminder-agent)** — reads an invoice tracker, drafts tone-matched overdue reminders with Gemini, and files every one as a **Gmail draft**. Never auto-sent.
+
 🌐 Portfolio site: [potaterrr.github.io](https://potaterrr.github.io)
 
 🔎 Searching *potater* lands here too — same potato, fewer letters.
@@ -27,8 +29,9 @@
 
 <table>
   <tr>
-    <th width="50%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a><br><sub>🔒 HIPAA-compliant build available</sub></th>
-    <th width="50%">💤 <a href="https://github.com/potaterrr/dead-lead-retrieval">Dead Lead Retrieval</a></th>
+    <th width="34%">📞 <a href="https://github.com/potaterrr/voice-receptionist">AI Voice Receptionist</a><br><sub>🔒 HIPAA-compliant build available</sub></th>
+    <th width="33%">💤 <a href="https://github.com/potaterrr/dead-lead-retrieval">Dead Lead Retrieval</a></th>
+    <th width="33%">🧾 <a href="https://github.com/potaterrr/ar-invoice-reminder-agent">AR Invoice Reminder Agent</a></th>
   </tr>
   <tr>
     <td valign="top">
@@ -43,6 +46,13 @@
       • <b>Human-in-the-loop by design</b> — AI drafts, human approves, nothing sends itself<br>
       • Anti-hallucination guardrails: the only link in any email is mine<br>
       • Full setup guide, config reference and production-tested lessons in the README
+    </td>
+    <td valign="top">
+      An n8n accounts-receivable agent that reads an invoice tracker every morning, computes days past due in code, and drafts a payment reminder whose tone escalates with the delay. Every email is filed as a <b>Gmail draft</b> for review.<br><br>
+      • <b>Never auto-sends</b> — AI drafts, a human presses send<br>
+      • Tone computed, not guessed: 1–14 friendly · 15–30 firm · 31+ offers a payment plan<br>
+      • Strict JSON output, signature enforced in code, no placeholders left behind<br>
+      • 7-day cooldown per invoice, then the follow-up date is logged back to the sheet
     </td>
   </tr>
 </table>
